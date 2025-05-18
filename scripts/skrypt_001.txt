@@ -1,0 +1,4 @@
+skrypt001
+print()
+for x in list_1:
+	print("hello")
