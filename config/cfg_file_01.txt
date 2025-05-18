@@ -2,3 +2,5 @@ plik
 konfiguracyjny
 config
 file
+
+new data in config
